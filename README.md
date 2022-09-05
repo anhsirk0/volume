@@ -31,8 +31,8 @@ cp volume ~/.local/bin/
 ```text
 usage: volume [-get] [-inc/-dec/-set PERCENT] [-mute]
 
-    -get, --get 		     Get current volume
-    -mute, --mute 		     Toggle mute
+    -get, --get 		Get current volume
+    -mute, --mute 		Toggle mute
     -set, --set=INT 		 Set current volume
     -inc, --inc=INT 		 Increase current volume
     -dec, --dec=INT 		 Decrease current volume
